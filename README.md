@@ -6,7 +6,6 @@
 
 **Official JavaScript/TypeScript SDK for VOLTNET - Voltage Settlement Network**
 
-[![npm version](https://img.shields.io/npm/v/@voltnet/sdk.svg)](https://www.npmjs.com/package/@voltnet/sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 
